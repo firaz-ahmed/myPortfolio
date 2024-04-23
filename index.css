@@ -446,7 +446,7 @@
     .work{
         background: url(./background.webp);
         width: 100vw;
-        height: 170vh;
+        height: 225vh;
         color: white;
         padding: 0px 20px;
         display: flex;
@@ -496,7 +496,7 @@
     .skills{
         background: url(./background.webp);
         width: 100vw;
-        height: 100vh;
+        height: 125vh;
         /* height: 190vh; */
         color: white;
         padding: 0px 20px;
@@ -543,7 +543,7 @@
     .contact{
         background: url(./background.webp);
         width: 100vw;
-        height: 65vh;
+        height: 70vh;
         color: white;
         padding: 0px 20px 30px 20px;
     }
